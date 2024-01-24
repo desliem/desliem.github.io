@@ -14,7 +14,7 @@
 
 1. [meteo](https://github.com/desliem/meteo)
 
-   Ce référentiel n'a pas encore été déplacé vers GitHub.
+   Ce projet informatique contient 135 machins (applications) qui facilitent la présentation et la compréhension des concepts élémentaires de la théorie économique. 
    
 ## desliem ?
 
