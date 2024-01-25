@@ -1,6 +1,6 @@
 # [desliem.github.io](https://desliem.github.io)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( [english](README_en.md) | français )
+( [english](README_en.md) | français )
 
 ## Contenu
 
