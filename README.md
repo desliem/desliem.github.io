@@ -1,8 +1,6 @@
 # [desliem.github.io](https://desliem.github.io)
 
-<div style="text-align: right">
-<a href="README_en.md">english</a> | français
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( [english](README_en.md) | français )
 
 ## Contenu
 
