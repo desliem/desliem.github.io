@@ -9,7 +9,7 @@ Here are the repositories associated with the `desliem` account.
 
 1. [Win4Deap](https://github.com/desliem/Win4Deap)
 
-    **Win4Deap 2** is a Windows graphic program whose objective is to facilitate the use of Tim Coelli's DEAP console application.
+    **Win4Deap 2** is a Windows graphic program whose objective is to facilitate the use of Tim Coelli's DEAP console application to do data envelopment analysis.
 
 1. [mdeap](https://github.com/desliem/mdeap)
 
